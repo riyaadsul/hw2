@@ -15,3 +15,6 @@ You should be able to view the GUI of the project upon successful compilation.
 
 ## Java Version
 This code is compiled with ```openjdk 17.0.7 2023-04-18```. Please update your JDK accordingly if you face any incompatibility issue.
+
+## New Functionality
+1. Applied encapsulation, immutability and prevented external modification of the transaction class by doing necessary modifications to the code files (made transaction class private and final and removed set method)
